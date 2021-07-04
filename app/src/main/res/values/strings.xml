@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySD</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="ok">OK</string>
+    <string name="safe">SAFE</string>
+    <string name="unsafe">UNSAFE</string>
+    <string name="tag_ble">BluetoothLE</string>
+</resources>
